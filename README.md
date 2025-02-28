@@ -1,6 +1,6 @@
 # ИИ-ассистент для компании по приготовлению и доставке пиццы, роллов, суши и фрайбоксов
 
-Ссылка на проект: @Wasabikrop_bot
+Ссылка на проект: @Wasabikrop_bot 
 
 
 Скриншот 1: https://raw.githubusercontent.com/Natalie-prog/ai_assistent/04b84eb7ca8059be59ace97ea83fd1ea336ce9e0/Screenshot_37.png
